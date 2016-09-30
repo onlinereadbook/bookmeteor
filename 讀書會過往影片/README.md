@@ -2,4 +2,4 @@
 
 | 主講者 | 章節 | 連結 | 討論區 |
 | ------ | ------ | :------: | :------: |
-| Max | Meteor+React | [[影片](https://www.youtube.com/watch?v=HNEZ677A7eM)] | [[傳送門]
+| Max | Meteor+React | [[影片](https://www.youtube.com/watch?v=HNEZ677A7eM)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/18)] |

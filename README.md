@@ -1,6 +1,6 @@
 # 歡迎大家加入線上 Meteor 讀書會
 
-### [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookmeteor/讀書會過往影片及討論/README.md)
+### [讀書會過往影片及討論區](https://github.com/onlinereadbook/bookmeteor/tree/master/讀書會過往影片/README.md)
 
 ### [其他線上讀書會](https://github.com/onlinereadbook/booknodejs/blob/master/線上讀書會列表/README.md)
 
